@@ -1,9 +1,11 @@
-# PROJECT OVERVIEW
+# FINSIGHT DATABASE OPTIMIZATION
+
+# Project Overview
 
 FinSight Database Optimization is a comprehensive SQLite database project that models a banking system with customer accounts, transactions, relationships, and interest rates, then demonstrates advanced SQL query optimization through 11 challenging problems.
 
 
-# TECHNICAL SKILLS DEMONSTRATED
+# Techinical Skills Demonstrated
 
 Database design/normalization for banking domain
 
@@ -14,7 +16,7 @@ Python data engineering: Bulk inserts, pandas for query execution/visualization
 Query optimization patterns for aggregations across linked accounts
 
 
-# KEY QUERIES DEMONSTRATED
+# Key Queries Demonstrated
 
 
 Customer average balances across accounts
@@ -30,7 +32,7 @@ Savings accounts with credit/add-on cards
 Aggregated credit limits for savings-linked cards
 
 
-# PROJECT WORKFLOW
+# Project Workflow
 
 1. Environment Setup
 
