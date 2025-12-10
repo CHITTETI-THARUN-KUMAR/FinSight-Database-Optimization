@@ -5,7 +5,7 @@ FinSight Database Optimization is a comprehensive SQLite database project that m
 
 **TECHNICAL SKILLS DEMONSTRATED**
 
-Database design/normalization for banking domain
+# Database design/normalization for banking domain
 
 Advanced SQL: COALESCE, GROUP BY, date functions (BETWEEN, MONTH), LEFT/RIGHT/CROSS JOINs
 
